@@ -1,0 +1,6 @@
+{
+  "name": "Gesture Control Assistant",
+  "description": "Background service that uses the front camera and proximity sensor to detect gestures and perform accessibility actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
